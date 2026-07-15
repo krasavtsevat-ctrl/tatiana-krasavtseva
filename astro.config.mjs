@@ -3,5 +3,5 @@ import { defineConfig } from "astro/config";
 export default defineConfig({
   output: "static",
   site: "https://malchenkovasvetlana-eng.github.io",
-  base: "/tatyana-krasavtseva",
+  base: "/tatiana-krasavtseva",
 });
